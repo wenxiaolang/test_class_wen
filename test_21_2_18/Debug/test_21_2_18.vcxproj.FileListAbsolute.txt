@@ -1,0 +1,2 @@
+E:\Microsoft Visual Studio\git_work\test_class_wen\test_21_2_18\Debug\test_21_2_18.exe
+E:\Microsoft Visual Studio\git_work\test_class_wen\test_21_2_18\Debug\test_21_2_18.pdb
