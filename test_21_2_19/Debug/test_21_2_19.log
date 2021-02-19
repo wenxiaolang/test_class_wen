@@ -1,2 +1,3 @@
 ﻿  test_class.c
+E:\Microsoft Visual Studio\git_work\test_class_wen\test_21_2_19\test_class.c(15): warning C4715: “is_leap_year”: 不是所有的控件路径都返回值
   test_21_2_19.vcxproj -> E:\Microsoft Visual Studio\git_work\test_class_wen\test_21_2_19\Debug\test_21_2_19.exe
