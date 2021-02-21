@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
+
 #include <stdio.h>
 
 ////写个函数，实现整型有序数组二分查找
